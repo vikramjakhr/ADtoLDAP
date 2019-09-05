@@ -11,6 +11,6 @@
 !*.py
 !*.gitignore
 !*.md
-
+!ADtoLDAP
 /Daemonizer/build/
 /Daemonizer/dist/
